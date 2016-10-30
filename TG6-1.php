@@ -129,7 +129,7 @@
 				</td>
 			</tr>
 		</table>
-		
+		<img src="img/git.png">
 	</form>
 
 </body>
