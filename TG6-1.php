@@ -131,7 +131,8 @@
 		</table>
 		
 	</form>
-	<img src="img/git.png">
+	//Eh hecho un cambio de imagen
+	<img src="img/git2.png">
 </body>
 
 <?php 
