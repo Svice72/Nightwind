@@ -131,7 +131,7 @@
 		</table>
 		
 	</form>
-	<img src="img/git.png">
+	<img src="img/git2.png">
 </body>
 
 <?php 
